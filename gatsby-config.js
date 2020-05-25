@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Daniel Kang`,
-    description: `Daniel Kang's Personal Webiste`,
+    description: `Daniel Kang | Product Manager | Toronto | Personal Website`,
     siteUrl: `https://daniekang.co`
   },
   plugins: [
