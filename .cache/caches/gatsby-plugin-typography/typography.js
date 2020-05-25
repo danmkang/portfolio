@@ -1,0 +1,1 @@
+module.exports = require("/Users/danielkang/Desktop/portfolio/src/utils/typography")
