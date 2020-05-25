@@ -1,4 +1,9 @@
 module.exports = {
+  siteMetadata: {
+    title: `Daniel Kang`,
+    description: `Daniel Kang's Personal Webiste`,
+    siteUrl: `https://daniekang.co`
+  },
   plugins: [
     {
       resolve: `gatsby-transformer-remark`,
