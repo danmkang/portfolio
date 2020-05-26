@@ -7,10 +7,10 @@ export default function Home() {
     <Layout>
       <h3>About Me 👋</h3>
       <p>
-      Hello! I'm currently a senior product manager at <a href="https://stackadapt.com">StackAdapt</a>, a platform that helps marketers run ads across the internet. Previously, I worked at <a href="https://rangle.io">Rangle.io</a>, a digital product consultancy.
+      Hello! I'm currently a <b>senior product manager</b> at <a href="https://stackadapt.com">StackAdapt</a>, a platform that helps marketers run ads across the internet. Previously, I worked at <a href="https://rangle.io">Rangle.io</a>, a digital product consultancy.
       </p>
       <p>
-      I care deeply about building simple, useful products that have clean user interfaces. Also, I'm the co-founder of <a href="https://www.meetup.com/ProductGo/">ProductGo</a>, a Toronto-based meetup for folks in product. 
+      I care deeply about building simple, useful products that contain clean user experiences. Also, I'm the co-founder of <a href="https://www.meetup.com/ProductGo/">ProductGo</a>, a Toronto-based meetup for folks in product. 
       </p>
       <p>
       I currently live in Toronto, Canada. I was born in South Korea, but also lived in Thailand and Turkey growing up. I studied at McGill University in Montreal.

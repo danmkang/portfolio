@@ -1,1 +1,1 @@
-module.exports = require("/Users/danielkang/Desktop/portfolio/src/utils/typography")
+module.exports = require("/Users/danielkang/Documents/portfolio/src/utils/typography")
