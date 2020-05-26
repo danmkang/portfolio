@@ -1,1 +1,0 @@
-module.exports = require("/Users/danielkang/Documents/portfolio/src/utils/typography")
