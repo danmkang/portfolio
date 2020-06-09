@@ -1,12 +1,13 @@
 import React from "react"
 import Layout from "../components/layout"
+import '../styles/global.css'
 
 export default function Reading() {
   return (
     <Layout>
-      <h2>
-        Reading Recommendations 📗    
-      </h2>
+      <h3>
+        Reading Recommendations <span role="img" aria-label="book">📘</span>    
+      </h3>
       <p>
         My rules when it comes to books are simple. If a book is boring after a few pages, I stop reading it. 
         I try to switch between fiction and non-fiction after each read. 

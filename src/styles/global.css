@@ -1,3 +1,14 @@
-html {
-    background-color: #f8f8ff;
-  }
+body {
+  background: #282c35;
+  color: rgba(255, 255, 255, 0.88);
+  -webkit-font-smoothing: antialiased; 
+}
+
+h3 {
+  color: rgba(255, 255, 255, 0.88);
+  -webkit-font-smoothing: antialiased; 
+}
+
+a {
+  color: papayawhip;
+}
