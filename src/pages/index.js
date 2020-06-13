@@ -10,7 +10,7 @@ export default function Home() {
     <Helmet>
       <title>Daniel Kang | Home </title>
       <meta name="description" content="Daniel Kang's Personal Website" />
-      <meta name="keywords" content="" />
+      <meta name="keywords" content="product management, toronto, porfolio, daniel kang, PM, product, reading recommendations, books" />
       <meta property="og.title" content="Daniel Kang | Home" />
       <meta property="og.type" content="website" />
       <meta property="og.description" content="Daniel Kang's Personal Website" />
