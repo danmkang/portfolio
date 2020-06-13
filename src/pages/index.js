@@ -8,8 +8,16 @@ export default function Home() {
   return (
     <Layout>
     <Helmet>
-      <title>Daniel Kang | Home</title>
+      <title>Daniel Kang | Home </title>
       <meta name="description" content="Daniel Kang's Personal Website" />
+      <meta name="keywords" content="" />
+      <meta property="og.title" content="Daniel Kang | Home" />
+      <meta property="og.type" content="website" />
+      <meta property="og.description" content="Daniel Kang's Personal Website" />
+      <meta property="og.image" content="" />
+      <meta property="og.locale" content="en_CA" />
+      <meta property="og.url" content="https://danielkang.co" />
+      <link rel="canonical" href="https://danielkang.co" />
     </Helmet>
       <h3>About Me <span role="img" aria-label="wave">👋</span></h3>
       <p>

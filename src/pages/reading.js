@@ -7,8 +7,16 @@ export default function Reading() {
   return (
     <Layout>
     <Helmet>
-      <title>Daniel Kang | Reading Recommendations</title>
+      <title>Daniel Kang | Reading Recommendations </title>
       <meta name="description" content="Daniel Kang's Personal Website" />
+      <meta name="keywords" content="" />
+      <meta property="og.title" content="Daniel Kang | Reading Recommendations" />
+      <meta property="og.type" content="website" />
+      <meta property="og.description" content="Daniel Kang's Personal Website" />
+      <meta property="og.image" content="" />
+      <meta property="og.locale" content="en_CA" />
+      <meta property="og.url" content="https://danielkang.co/reading" />
+      <link rel="canonical" href="https://danielkang.co/reading" />
     </Helmet>
       <h3>
         Reading Recommendations <span role="img" aria-label="book">📘</span>    
