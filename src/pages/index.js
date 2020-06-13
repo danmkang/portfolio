@@ -2,10 +2,15 @@ import React from "react"
 import Layout from "../components/layout"
 import { Link } from "gatsby"
 import '../styles/global.css'
+import { Helmet } from "react-helmet"
 
 export default function Home() {
   return (
     <Layout>
+    <Helmet>
+      <title>Daniel Kang | Home</title>
+      <meta name="description" content="Daniel Kang's Personal Website" />
+    </Helmet>
       <h3>About Me <span role="img" aria-label="wave">👋</span></h3>
       <p>
       Hello! My name is Daniel, I'm a <b>senior product manager</b> at <a href="https://stackadapt.com">StackAdapt</a>, a platform that helps marketers run ads across the internet. Previously, I worked at <a href="https://rangle.io">Rangle.io</a>, a digital product consultancy. 

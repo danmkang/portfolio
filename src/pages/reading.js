@@ -1,10 +1,15 @@
 import React from "react"
 import Layout from "../components/layout"
 import '../styles/global.css'
+import { Helmet } from "react-helmet"
 
 export default function Reading() {
   return (
     <Layout>
+    <Helmet>
+      <title>Daniel Kang | Reading Recommendations</title>
+      <meta name="description" content="Daniel Kang's Personal Website" />
+    </Helmet>
       <h3>
         Reading Recommendations <span role="img" aria-label="book">📘</span>    
       </h3>

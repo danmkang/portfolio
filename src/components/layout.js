@@ -20,6 +20,5 @@ export default function Layout({ children }) {
       </header>
       {children}
     </div>
-    
   )
 }
