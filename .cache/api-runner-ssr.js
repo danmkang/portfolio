@@ -1,7 +1,4 @@
 var plugins = [{
-      plugin: require('/Users/danielkang/Desktop/portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-75478198-1"},
-    },{
       plugin: require('/Users/danielkang/Desktop/portfolio/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     },{
