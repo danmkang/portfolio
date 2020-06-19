@@ -6,7 +6,6 @@ module.exports = {
     url: `https://daniekang.co`, 
   },
   plugins: [
-    },
     {
       resolve: `gatsby-plugin-typography`,
       options: {
